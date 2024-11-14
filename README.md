@@ -41,16 +41,16 @@ The 4-bit calculator operates based on user-selected operations and inputs:
 
 #### Block Diagram
 
-![Block Diagram]()
+![Block Diagram](https://raw.githubusercontent.com/chrislepore/Project_calculator/refs/heads/main/Images/Block%20Diagram.PNG)
 
 ### Breadboard Wiring
 
 - **7-Segment Display Wiring**:
-  ![Breadboard 7-Segment Display]()
+  ![Breadboard 7-Segment Display](https://raw.githubusercontent.com/chrislepore/Project_calculator/refs/heads/main/Images/BreadBoard%207seg.JPG)
 - **LED Output Wiring**:
-  ![Breadboard LED Image]()
+  ![Breadboard LED Image](https://raw.githubusercontent.com/chrislepore/Project_calculator/refs/heads/main/Images/BreadBoard%20LED.JPG)
 - **Nucleo Development Board Setup**:
-  ![Dev Board]()
+  ![Dev Board](https://raw.githubusercontent.com/chrislepore/Project_calculator/refs/heads/main/Images/DevBoard.JPG)
 
 ## Software Workflow
 
@@ -72,7 +72,7 @@ The main program reads user inputs (operation type, numbers A and B), performs t
    - **7-Segment Display**: Shows the calculated value.
 
 #### Software Flowchart
-![Flowchart]()
+![Flowchart](https://raw.githubusercontent.com/chrislepore/Project_calculator/refs/heads/main/Images/Flowchart.PNG)
 
 ## Demonstration
 
